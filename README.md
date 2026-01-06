@@ -97,6 +97,8 @@ make menuconfig
 make V=s -j$(nproc)
 ```
 
+ceshi shiyong  action
+
 编译完成后输出路径：bin/targets
 
 ### 使用 WSL/WSL2 进行编译
