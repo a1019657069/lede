@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalNoDirTAR"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalNoDirTAR.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalNoDirTAR-complete.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirTAR/TutorialStep1-LocalNoDirTAR-build.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirTAR/TutorialStep1-LocalNoDirTAR-configure.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirTAR/TutorialStep1-LocalNoDirTAR-download.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirTAR/TutorialStep1-LocalNoDirTAR-install.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirTAR/TutorialStep1-LocalNoDirTAR-mkdir.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirTAR/TutorialStep1-LocalNoDirTAR-mypatch.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirTAR/TutorialStep1-LocalNoDirTAR-patch.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirTAR/TutorialStep1-LocalNoDirTAR-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"TutorialStep1-LocalNoDirTAR"
+		],
+		"name" : "TutorialStep1-LocalNoDirTAR"
+	}
+}

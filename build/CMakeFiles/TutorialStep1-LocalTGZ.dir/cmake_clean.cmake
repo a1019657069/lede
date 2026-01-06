@@ -1,0 +1,16 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/TutorialStep1-LocalTGZ"
+  "CMakeFiles/TutorialStep1-LocalTGZ-complete"
+  "Ext/Stamp/TutorialStep1-LocalTGZ/TutorialStep1-LocalTGZ-build"
+  "Ext/Stamp/TutorialStep1-LocalTGZ/TutorialStep1-LocalTGZ-configure"
+  "Ext/Stamp/TutorialStep1-LocalTGZ/TutorialStep1-LocalTGZ-download"
+  "Ext/Stamp/TutorialStep1-LocalTGZ/TutorialStep1-LocalTGZ-install"
+  "Ext/Stamp/TutorialStep1-LocalTGZ/TutorialStep1-LocalTGZ-mkdir"
+  "Ext/Stamp/TutorialStep1-LocalTGZ/TutorialStep1-LocalTGZ-patch_disconnected"
+  "Ext/Stamp/TutorialStep1-LocalTGZ/TutorialStep1-LocalTGZ-update_disconnected"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/TutorialStep1-LocalTGZ.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

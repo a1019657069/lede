@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-G;Unix Makefiles;<SOURCE_DIR>;-GUnix Makefiles;-C<TMP_DIR>/TutorialStep5-Local-cache-$<CONFIG>.cmake;-S;<SOURCE_DIR><SOURCE_SUBDIR>;-B;<BINARY_DIR>'

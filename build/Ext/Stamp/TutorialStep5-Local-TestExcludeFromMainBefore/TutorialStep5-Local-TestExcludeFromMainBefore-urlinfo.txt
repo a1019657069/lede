@@ -1,0 +1,11 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/bin/cmake;-E;rm;-rf;/home/yan/Downloads/openwrt/lede/build/Ext/Source/TutorialStep5-Local-TestExcludeFromMainBefore;COMMAND;/usr/bin/cmake;-E;copy_directory;/home/yan/Downloads/openwrt/lede/build_dir/host/cmake-3.30.5/Tests/ExternalProjectLocal/Step5;/home/yan/Downloads/openwrt/lede/build/Ext/Source/TutorialStep5-Local-TestExcludeFromMainBefore
+source_dir=/home/yan/Downloads/openwrt/lede/build/Ext/Source/TutorialStep5-Local-TestExcludeFromMainBefore
+work_dir=/home/yan/Downloads/openwrt/lede/build/Ext/Source
+url(s)=/home/yan/Downloads/openwrt/lede/build_dir/host/cmake-3.30.5/Tests/ExternalProjectLocal/Step5
+hash=
+      

@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalTAR/verify-TutorialStep1-LocalTAR.cmake;COMMAND;/usr/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalTAR/extract-TutorialStep1-LocalTAR.cmake
+source_dir=/home/yan/Downloads/openwrt/lede/build/Ext/Source/TutorialStep1-LocalTAR
+work_dir=/home/yan/Downloads/openwrt/lede/build/Ext/Source
+url(s)=/home/yan/Downloads/openwrt/lede/build_dir/host/cmake-3.30.5/Tests/ExternalProjectLocal/Step1.tar
+hash=MD5=a87c5b47c0201c09ddfe1d5738fdb1e3
+      no_extract=
+

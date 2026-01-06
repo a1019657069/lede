@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep5-Local-TestAfterInstall"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep5-Local-TestAfterInstall.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep5-Local-TestAfterInstall-complete.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestAfterInstall/TutorialStep5-Local-TestAfterInstall-build.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestAfterInstall/TutorialStep5-Local-TestAfterInstall-configure.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestAfterInstall/TutorialStep5-Local-TestAfterInstall-download.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestAfterInstall/TutorialStep5-Local-TestAfterInstall-install.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestAfterInstall/TutorialStep5-Local-TestAfterInstall-mkdir.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestAfterInstall/TutorialStep5-Local-TestAfterInstall-patch.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestAfterInstall/TutorialStep5-Local-TestAfterInstall-test.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestAfterInstall/TutorialStep5-Local-TestAfterInstall-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"TutorialStep5-Local-TestAfterInstall"
+		],
+		"name" : "TutorialStep5-Local-TestAfterInstall"
+	}
+}

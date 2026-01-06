@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalNoDirBZ2"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalNoDirBZ2.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalNoDirBZ2-complete.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirBZ2/TutorialStep1-LocalNoDirBZ2-build.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirBZ2/TutorialStep1-LocalNoDirBZ2-configure.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirBZ2/TutorialStep1-LocalNoDirBZ2-download.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirBZ2/TutorialStep1-LocalNoDirBZ2-install.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirBZ2/TutorialStep1-LocalNoDirBZ2-mkdir.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirBZ2/TutorialStep1-LocalNoDirBZ2-patch.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirBZ2/TutorialStep1-LocalNoDirBZ2-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"TutorialStep1-LocalNoDirBZ2"
+		],
+		"name" : "TutorialStep1-LocalNoDirBZ2"
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep5-Local-configure"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep5-Local-configure.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local/TutorialStep5-Local-configure.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local/TutorialStep5-Local-patch.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local/TutorialStep5-Local-update.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local/TutorialStep5-Local-download.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local/TutorialStep5-Local-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"TutorialStep5-Local"
+		],
+		"name" : "TutorialStep5-Local-configure"
+	}
+}

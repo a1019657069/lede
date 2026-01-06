@@ -1,0 +1,10 @@
+# Target labels
+ TutorialStep1-LocalNoDirTGZ
+# Source files and their labels
+/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalNoDirTGZ-configure
+/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalNoDirTGZ-configure.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirTGZ/TutorialStep1-LocalNoDirTGZ-configure.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirTGZ/TutorialStep1-LocalNoDirTGZ-patch.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirTGZ/TutorialStep1-LocalNoDirTGZ-update.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirTGZ/TutorialStep1-LocalNoDirTGZ-download.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirTGZ/TutorialStep1-LocalNoDirTGZ-mkdir.rule

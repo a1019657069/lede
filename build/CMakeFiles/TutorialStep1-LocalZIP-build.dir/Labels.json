@@ -1,0 +1,37 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalZIP-build"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalZIP-build.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalZIP/TutorialStep1-LocalZIP-build.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalZIP/TutorialStep1-LocalZIP-configure.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalZIP/TutorialStep1-LocalZIP-patch.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalZIP/TutorialStep1-LocalZIP-update.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalZIP/TutorialStep1-LocalZIP-download.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalZIP/TutorialStep1-LocalZIP-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"TutorialStep1-LocalZIP"
+		],
+		"name" : "TutorialStep1-LocalZIP-build"
+	}
+}

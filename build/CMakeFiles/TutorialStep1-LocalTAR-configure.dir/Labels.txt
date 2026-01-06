@@ -1,0 +1,10 @@
+# Target labels
+ TutorialStep1-LocalTAR
+# Source files and their labels
+/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalTAR-configure
+/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalTAR-configure.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalTAR/TutorialStep1-LocalTAR-configure.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalTAR/TutorialStep1-LocalTAR-patch.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalTAR/TutorialStep1-LocalTAR-update.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalTAR/TutorialStep1-LocalTAR-download.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalTAR/TutorialStep1-LocalTAR-mkdir.rule

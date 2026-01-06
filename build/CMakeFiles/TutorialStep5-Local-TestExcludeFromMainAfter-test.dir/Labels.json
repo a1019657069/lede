@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep5-Local-TestExcludeFromMainAfter-test"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep5-Local-TestExcludeFromMainAfter-test.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestExcludeFromMainAfter/TutorialStep5-Local-TestExcludeFromMainAfter-test.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestExcludeFromMainAfter/TutorialStep5-Local-TestExcludeFromMainAfter-install.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestExcludeFromMainAfter/TutorialStep5-Local-TestExcludeFromMainAfter-build.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestExcludeFromMainAfter/TutorialStep5-Local-TestExcludeFromMainAfter-configure.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestExcludeFromMainAfter/TutorialStep5-Local-TestExcludeFromMainAfter-patch.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestExcludeFromMainAfter/TutorialStep5-Local-TestExcludeFromMainAfter-update.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestExcludeFromMainAfter/TutorialStep5-Local-TestExcludeFromMainAfter-download.rule"
+		},
+		{
+			"file" : "/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestExcludeFromMainAfter/TutorialStep5-Local-TestExcludeFromMainAfter-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"TutorialStep5-Local-TestExcludeFromMainAfter"
+		],
+		"name" : "TutorialStep5-Local-TestExcludeFromMainAfter-test"
+	}
+}

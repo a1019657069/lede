@@ -1,0 +1,14 @@
+# Target labels
+ TutorialStep1-LocalNoDirTAR
+# Source files and their labels
+/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalNoDirTAR
+/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalNoDirTAR.rule
+/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalNoDirTAR-complete.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirTAR/TutorialStep1-LocalNoDirTAR-build.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirTAR/TutorialStep1-LocalNoDirTAR-configure.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirTAR/TutorialStep1-LocalNoDirTAR-download.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirTAR/TutorialStep1-LocalNoDirTAR-install.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirTAR/TutorialStep1-LocalNoDirTAR-mkdir.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirTAR/TutorialStep1-LocalNoDirTAR-mypatch.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirTAR/TutorialStep1-LocalNoDirTAR-patch.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirTAR/TutorialStep1-LocalNoDirTAR-update.rule

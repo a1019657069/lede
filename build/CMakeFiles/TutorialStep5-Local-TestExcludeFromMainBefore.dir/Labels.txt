@@ -1,0 +1,13 @@
+# Target labels
+ TutorialStep5-Local-TestExcludeFromMainBefore
+# Source files and their labels
+/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep5-Local-TestExcludeFromMainBefore
+/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep5-Local-TestExcludeFromMainBefore.rule
+/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep5-Local-TestExcludeFromMainBefore-complete.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestExcludeFromMainBefore/TutorialStep5-Local-TestExcludeFromMainBefore-build.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestExcludeFromMainBefore/TutorialStep5-Local-TestExcludeFromMainBefore-configure.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestExcludeFromMainBefore/TutorialStep5-Local-TestExcludeFromMainBefore-download.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestExcludeFromMainBefore/TutorialStep5-Local-TestExcludeFromMainBefore-install.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestExcludeFromMainBefore/TutorialStep5-Local-TestExcludeFromMainBefore-mkdir.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestExcludeFromMainBefore/TutorialStep5-Local-TestExcludeFromMainBefore-patch.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestExcludeFromMainBefore/TutorialStep5-Local-TestExcludeFromMainBefore-update.rule

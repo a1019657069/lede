@@ -1,0 +1,13 @@
+# Target labels
+ TutorialStep1-LocalNoDirBZ2
+# Source files and their labels
+/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalNoDirBZ2
+/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalNoDirBZ2.rule
+/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalNoDirBZ2-complete.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirBZ2/TutorialStep1-LocalNoDirBZ2-build.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirBZ2/TutorialStep1-LocalNoDirBZ2-configure.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirBZ2/TutorialStep1-LocalNoDirBZ2-download.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirBZ2/TutorialStep1-LocalNoDirBZ2-install.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirBZ2/TutorialStep1-LocalNoDirBZ2-mkdir.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirBZ2/TutorialStep1-LocalNoDirBZ2-patch.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirBZ2/TutorialStep1-LocalNoDirBZ2-update.rule

@@ -1,0 +1,13 @@
+# Target labels
+ TutorialStep1-LocalNoDirZIP
+# Source files and their labels
+/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalNoDirZIP
+/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalNoDirZIP.rule
+/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalNoDirZIP-complete.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirZIP/TutorialStep1-LocalNoDirZIP-build.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirZIP/TutorialStep1-LocalNoDirZIP-configure.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirZIP/TutorialStep1-LocalNoDirZIP-download.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirZIP/TutorialStep1-LocalNoDirZIP-install.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirZIP/TutorialStep1-LocalNoDirZIP-mkdir.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirZIP/TutorialStep1-LocalNoDirZIP-patch.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirZIP/TutorialStep1-LocalNoDirZIP-update.rule

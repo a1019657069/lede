@@ -1,0 +1,10 @@
+# Target labels
+ TutorialStep1-LocalZIP
+# Source files and their labels
+/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalZIP-configure
+/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalZIP-configure.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalZIP/TutorialStep1-LocalZIP-configure.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalZIP/TutorialStep1-LocalZIP-patch.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalZIP/TutorialStep1-LocalZIP-update.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalZIP/TutorialStep1-LocalZIP-download.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalZIP/TutorialStep1-LocalZIP-mkdir.rule

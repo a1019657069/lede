@@ -1,0 +1,375 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ExternalProjectLocalTest",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep1-LocalBZ2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep1-LocalBZ2-Debug-b37a7b94179a552f1b05.json",
+					"name" : "TutorialStep1-LocalBZ2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep1-LocalBZ2-build::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep1-LocalBZ2-build-Debug-6b64cb1eb161fe028272.json",
+					"name" : "TutorialStep1-LocalBZ2-build",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep1-LocalBZ2-configure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep1-LocalBZ2-configure-Debug-82c19b184901aa5be1b9.json",
+					"name" : "TutorialStep1-LocalBZ2-configure",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep1-LocalNoDirBZ2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep1-LocalNoDirBZ2-Debug-613c0c1a576ce1af3920.json",
+					"name" : "TutorialStep1-LocalNoDirBZ2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep1-LocalNoDirBZ2-build::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep1-LocalNoDirBZ2-build-Debug-e407eff066fbfc69018e.json",
+					"name" : "TutorialStep1-LocalNoDirBZ2-build",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep1-LocalNoDirBZ2-configure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep1-LocalNoDirBZ2-configure-Debug-d66e35d2995d355f06a3.json",
+					"name" : "TutorialStep1-LocalNoDirBZ2-configure",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep1-LocalNoDirTAR::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep1-LocalNoDirTAR-Debug-584d41cbcff3d0ad21b4.json",
+					"name" : "TutorialStep1-LocalNoDirTAR",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep1-LocalNoDirTAR-build::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep1-LocalNoDirTAR-build-Debug-6406ee7c8968268e49f5.json",
+					"name" : "TutorialStep1-LocalNoDirTAR-build",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep1-LocalNoDirTAR-configure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep1-LocalNoDirTAR-configure-Debug-28c2eea09408a9237b27.json",
+					"name" : "TutorialStep1-LocalNoDirTAR-configure",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep1-LocalNoDirTGZ::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep1-LocalNoDirTGZ-Debug-00f3a3e203af0a429991.json",
+					"name" : "TutorialStep1-LocalNoDirTGZ",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep1-LocalNoDirTGZ-build::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep1-LocalNoDirTGZ-build-Debug-dddd521522d01130b156.json",
+					"name" : "TutorialStep1-LocalNoDirTGZ-build",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep1-LocalNoDirTGZ-configure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep1-LocalNoDirTGZ-configure-Debug-eb9efbef42c0e0e3b97e.json",
+					"name" : "TutorialStep1-LocalNoDirTGZ-configure",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep1-LocalNoDirZIP::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep1-LocalNoDirZIP-Debug-7b62c7d8bc95c7dbdb50.json",
+					"name" : "TutorialStep1-LocalNoDirZIP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep1-LocalNoDirZIP-build::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep1-LocalNoDirZIP-build-Debug-d7df08bb76af18d0fc1d.json",
+					"name" : "TutorialStep1-LocalNoDirZIP-build",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep1-LocalNoDirZIP-configure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep1-LocalNoDirZIP-configure-Debug-2af58955b1405b237a2f.json",
+					"name" : "TutorialStep1-LocalNoDirZIP-configure",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep1-LocalTAR::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep1-LocalTAR-Debug-92fcc4c452710179b502.json",
+					"name" : "TutorialStep1-LocalTAR",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep1-LocalTAR-build::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep1-LocalTAR-build-Debug-850f009969aa8560a657.json",
+					"name" : "TutorialStep1-LocalTAR-build",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep1-LocalTAR-configure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep1-LocalTAR-configure-Debug-6c551a506a11d9a2f377.json",
+					"name" : "TutorialStep1-LocalTAR-configure",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep1-LocalTGZ::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep1-LocalTGZ-Debug-38d06f3a5c98cde2e8a6.json",
+					"name" : "TutorialStep1-LocalTGZ",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep1-LocalTGZ-build::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep1-LocalTGZ-build-Debug-02647be2244971633b2a.json",
+					"name" : "TutorialStep1-LocalTGZ-build",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep1-LocalTGZ-configure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep1-LocalTGZ-configure-Debug-027ff5176fca1355de42.json",
+					"name" : "TutorialStep1-LocalTGZ-configure",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep1-LocalZIP::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep1-LocalZIP-Debug-2e55679182647a02ba9b.json",
+					"name" : "TutorialStep1-LocalZIP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep1-LocalZIP-build::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep1-LocalZIP-build-Debug-8449a4f67707dc822951.json",
+					"name" : "TutorialStep1-LocalZIP-build",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep1-LocalZIP-configure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep1-LocalZIP-configure-Debug-28ef3158f9aacd3cb63e.json",
+					"name" : "TutorialStep1-LocalZIP-configure",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep5-Local::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep5-Local-Debug-b45678dfcfcb57694e00.json",
+					"name" : "TutorialStep5-Local",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep5-Local-TestAfterInstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep5-Local-TestAfterInstall-Debug-e150df00dec23e15d069.json",
+					"name" : "TutorialStep5-Local-TestAfterInstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep5-Local-TestAfterInstall-build::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep5-Local-TestAfterInstall-build-Debug-855b13ea05ea8942f81e.json",
+					"name" : "TutorialStep5-Local-TestAfterInstall-build",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep5-Local-TestAfterInstall-configure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep5-Local-TestAfterInstall-configure-Debug-21f2c8af84752bbc2e5a.json",
+					"name" : "TutorialStep5-Local-TestAfterInstall-configure",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep5-Local-TestAfterInstall-test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep5-Local-TestAfterInstall-test-Debug-f8c0e4820137cf8e3e9f.json",
+					"name" : "TutorialStep5-Local-TestAfterInstall-test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep5-Local-TestExcludeFromMainAfter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep5-Local-TestExcludeFromMainAfter-Debug-5bf378feb99b2c9b7542.json",
+					"name" : "TutorialStep5-Local-TestExcludeFromMainAfter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep5-Local-TestExcludeFromMainAfter-test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep5-Local-TestExcludeFromMainAfter-test-Debug-1a8719fec1d92776abb8.json",
+					"name" : "TutorialStep5-Local-TestExcludeFromMainAfter-test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep5-Local-TestExcludeFromMainBefore::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep5-Local-TestExcludeFromMainBefore-Debug-12d93778ea19b5f51a34.json",
+					"name" : "TutorialStep5-Local-TestExcludeFromMainBefore",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep5-Local-TestExcludeFromMainBefore-test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep5-Local-TestExcludeFromMainBefore-test-Debug-a6d550dcc88a1ee3ad19.json",
+					"name" : "TutorialStep5-Local-TestExcludeFromMainBefore-test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep5-Local-build::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep5-Local-build-Debug-cdfd93b8a42a26de551c.json",
+					"name" : "TutorialStep5-Local-build",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep5-Local-configure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep5-Local-configure-Debug-86076402147028490cdd.json",
+					"name" : "TutorialStep5-Local-configure",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialStep5-Local-test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialStep5-Local-test-Debug-3d3f8776c7424f631958.json",
+					"name" : "TutorialStep5-Local-test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/yan/Downloads/openwrt/lede/build",
+		"source" : "/home/yan/Downloads/openwrt/lede/build_dir/host/cmake-3.30.5/Tests/ExternalProjectLocal"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

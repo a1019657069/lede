@@ -1,0 +1,11 @@
+# Target labels
+ TutorialStep1-LocalTGZ
+# Source files and their labels
+/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalTGZ-build
+/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalTGZ-build.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalTGZ/TutorialStep1-LocalTGZ-build.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalTGZ/TutorialStep1-LocalTGZ-configure.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalTGZ/TutorialStep1-LocalTGZ-patch_disconnected.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalTGZ/TutorialStep1-LocalTGZ-update_disconnected.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalTGZ/TutorialStep1-LocalTGZ-download.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalTGZ/TutorialStep1-LocalTGZ-mkdir.rule

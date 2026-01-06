@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirBZ2/verify-TutorialStep1-LocalNoDirBZ2.cmake;COMMAND;/usr/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalNoDirBZ2/extract-TutorialStep1-LocalNoDirBZ2.cmake
+source_dir=/home/yan/Downloads/openwrt/lede/build/Ext/Source/TutorialStep1-LocalNoDirBZ2
+work_dir=/home/yan/Downloads/openwrt/lede/build/Ext/Source
+url(s)=/home/yan/Downloads/openwrt/lede/build_dir/host/cmake-3.30.5/Tests/ExternalProjectLocal/Step1NoDir.tar.bz2
+hash=
+      no_extract=
+

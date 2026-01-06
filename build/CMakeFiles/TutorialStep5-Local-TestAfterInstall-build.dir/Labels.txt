@@ -1,0 +1,11 @@
+# Target labels
+ TutorialStep5-Local-TestAfterInstall
+# Source files and their labels
+/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep5-Local-TestAfterInstall-build
+/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep5-Local-TestAfterInstall-build.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestAfterInstall/TutorialStep5-Local-TestAfterInstall-build.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestAfterInstall/TutorialStep5-Local-TestAfterInstall-configure.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestAfterInstall/TutorialStep5-Local-TestAfterInstall-patch.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestAfterInstall/TutorialStep5-Local-TestAfterInstall-update.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestAfterInstall/TutorialStep5-Local-TestAfterInstall-download.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep5-Local-TestAfterInstall/TutorialStep5-Local-TestAfterInstall-mkdir.rule

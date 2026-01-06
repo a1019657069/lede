@@ -1,0 +1,10 @@
+# Target labels
+ TutorialStep1-LocalBZ2
+# Source files and their labels
+/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalBZ2-configure
+/home/yan/Downloads/openwrt/lede/build/CMakeFiles/TutorialStep1-LocalBZ2-configure.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalBZ2/TutorialStep1-LocalBZ2-configure.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalBZ2/TutorialStep1-LocalBZ2-patch.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalBZ2/TutorialStep1-LocalBZ2-update.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalBZ2/TutorialStep1-LocalBZ2-download.rule
+/home/yan/Downloads/openwrt/lede/build/Ext/Stamp/TutorialStep1-LocalBZ2/TutorialStep1-LocalBZ2-mkdir.rule
